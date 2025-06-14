@@ -27,9 +27,4 @@ Make sure you have these installed:
 
 ---
 
-## 🛠️ How to Run Locally
 
-1. **Clone the repository**  
-```bash
-git clone https://github.com/onlydil/my-mern-social.git
-cd my-mern-social
